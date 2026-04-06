@@ -1,8 +1,8 @@
 ELO
 
---> [TP 01](TP1/)
---> [TP 02](TP2/)
---> [TP 03](TP3/)
+--> [LE TP 01](TP 1/)
+--> [LE TP 02](TP 2/)
+--> [LE TP 03](TP 3/)
 
 KISS
 
